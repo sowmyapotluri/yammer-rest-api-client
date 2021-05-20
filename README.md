@@ -147,3 +147,4 @@ TODO
 * Implement the remaining API methods
 * Add support for Grunt
 * Increase unit testing coverage
+https://stackabuse.com/publishing-a-nodejs-module-to-npm/
